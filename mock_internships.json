@@ -1,0 +1,34 @@
+[
+    {
+        "id": "INT101",
+        "title": "Rural Outreach Intern",
+        "organization": "AgriTech NGO",
+        "skills_required": "Hindi, Communication, Field Work, Basic Data Entry",
+        "sector": "Agriculture, Rural Development",
+        "location": "Madhya Pradesh"
+    },
+    {
+        "id": "INT102",
+        "title": "Junior Web Development Trainee",
+        "organization": "Startup Digital",
+        "skills_required": "HTML, CSS, JavaScript, Basic Coding Logic",
+        "sector": "IT, Smart Education",
+        "location": "Bangalore"
+    },
+    {
+        "id": "INT103",
+        "title": "Entry-Level Finance Assistant",
+        "organization": "Ministry of Corp. Affairs",
+        "skills_required": "Tally, Basic Accounting, Microsoft Excel",
+        "sector": "Finance, Miscellaneous",
+        "location": "Delhi"
+    },
+    {
+        "id": "INT104",
+        "title": "Warehouse Logistics Helper",
+        "organization": "E-commerce Logistics",
+        "skills_required": "Inventory Management, Physical Fitness, Local Language",
+        "sector": "Logistics, Transport",
+        "location": "Mumbai"
+    }
+]
